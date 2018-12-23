@@ -1,7 +1,7 @@
-# mongo-standalone
+## mongo-standalone
 Shell script to start a standalone instance of mongod with specified port and path
 
-# How to?
+### How to?
 > Prepare: 
 - make sure you have mongodb community server is installed on the system
 ```sh
