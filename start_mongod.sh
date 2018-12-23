@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
+
 # simple script for starting a standalone instance of a mongo database, or create a new one
 # Mutasim Issa | mutasim@sourcya.com
+# Version: 0.1.0
 
 # change the constant db_dir to your mongo data path, change mongod_port constant if you wish
 # if the port is busy the script will try with the port +1 till it reaches a free port
