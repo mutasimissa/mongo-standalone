@@ -34,7 +34,7 @@ chmod +x start_mongod.sh
 > The script was made for testing and development purposes, also it's very basic and made for my personal workflow on a MEAN project, it shouldn't be used in production environments at all!
 
 #### Questions
-> For any questions regarding the practice open a new issue [here](https://github.com/sourcya/php101/issues/)
+> For any questions regarding the practice open a new issue [here](https://github.com/mutasimissa/mongo-standalone/issues)
 ### License
 The project is licensed under the [GNU GPL V3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 ##### GOOD LUCK!
