@@ -3,6 +3,11 @@ Shell script to start a standalone instance of mongod with specified port and pa
 
 # How to?
 > Prepare: 
+- make sure you have mongodb community server is installed on the system
+```sh
+mongod --version
+```
+
 - copy the script into the direcotry that your database(s) will be stored on your machine
 
 - if you have already the database, create the required directories DB/databases then copy your database to the newely created directory:
