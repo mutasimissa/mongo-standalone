@@ -12,7 +12,7 @@ mongod --version
 
 - if you have already the database, create the required directories DB/databases then copy your database to the newely created directory:
 ```sh
-mkdir DB/databases/db1
+mkdir -p DB/databases/db1
 cp -a YOUR_DATABASE_DATA_PATH/. DB/databases/db1
 ```
 
